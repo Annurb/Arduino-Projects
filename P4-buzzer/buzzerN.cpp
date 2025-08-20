@@ -1,4 +1,4 @@
-// C++ code
+// C++ code: buzzer com noTone()
 //Pino conectado ao buzzer
 int buzzer = 8;
 
