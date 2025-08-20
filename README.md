@@ -28,6 +28,14 @@
 
 ## P3 - LDR
 
+1. Controle de LED
+
 <img width="370" height="387" alt="P3 - LDR" src="https://github.com/user-attachments/assets/affd1e12-e91c-41e1-bc72-cb49b2f9ee9a" />
 
+## P4 - Buzzer
 
+1. Buzzer com a função noTone()
+2. Buzzer sem a função noTone()
+3. Buzzer com notas musicais
+
+<img width="527" height="486" alt="P4 - Buzzer" src="https://github.com/user-attachments/assets/6843cd14-1e2b-4a22-80c7-02bdf63800cd" />
