@@ -39,3 +39,11 @@
 3. Buzzer com notas musicais
 
 <img width="527" height="486" alt="P4 - Buzzer" src="https://github.com/user-attachments/assets/6843cd14-1e2b-4a22-80c7-02bdf63800cd" />
+
+## P5 - Botão
+
+1.Ligando com tempo
+2.Ligado e desligado
+
+<img width="312" height="328" alt="P5-Botao" src="https://github.com/user-attachments/assets/511507f5-071c-4cec-aadb-50893d82932a" />
+
