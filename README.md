@@ -47,3 +47,7 @@
 
 <img width="312" height="328" alt="P5-Botao" src="https://github.com/user-attachments/assets/511507f5-071c-4cec-aadb-50893d82932a" />
 
+## D1 - Controle de estufa
+
+<img width="438" height="407" alt="Controle de estufa" src="https://github.com/user-attachments/assets/172c8e22-0326-4205-9543-082811ffb9c3" />
+
