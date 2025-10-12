@@ -61,4 +61,9 @@ D - Desafios
 
 <img width="703" height="365" alt="Controle de estufa lcd" src="https://github.com/user-attachments/assets/73ea91c1-ff5a-4994-9aa1-17ba751d93b5" />
 
+## P6 - LCD
+
+<img width="537" height="552" alt="Displaylcd" src="https://github.com/user-attachments/assets/9aac3496-b0ff-4c80-8ddc-55da99b7b3fc" />
+
+
 
