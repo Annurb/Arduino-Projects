@@ -5,6 +5,10 @@
 
 &nbsp; Abaixo, encontram-se as imagens dos respectivos circuitos utilizados para cada código.
 
+P - Projetos
+
+D - Desafios
+
 ## P1 - Semáforo:
 
 1. Controle simples de um LED:
@@ -49,5 +53,12 @@
 
 ## D1 - Controle de estufa
 
+1.1 - Controle de estufa
+
 <img width="438" height="407" alt="Controle de estufa" src="https://github.com/user-attachments/assets/172c8e22-0326-4205-9543-082811ffb9c3" />
+
+1.2 - Controle de estufa com LCD
+
+<img width="703" height="365" alt="Controle de estufa lcd" src="https://github.com/user-attachments/assets/73ea91c1-ff5a-4994-9aa1-17ba751d93b5" />
+
 
