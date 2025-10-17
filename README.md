@@ -75,5 +75,7 @@ D - Desafios
 
 1.3 - Display com rolagem
 
-DF - Calculadora
+## DF - Calculadora
+
+<img width="507" height="437" alt="Df - Calculadora" src="https://github.com/user-attachments/assets/f70f2447-3531-4dc4-8ced-eef864c47e90" />
 
