@@ -65,5 +65,7 @@ D - Desafios
 
 <img width="537" height="552" alt="Displaylcd" src="https://github.com/user-attachments/assets/9aac3496-b0ff-4c80-8ddc-55da99b7b3fc" />
 
-
+1.1 - Display LCD
+1.2 - Display ola mundo
+1.3 - Display com rolagem
 
