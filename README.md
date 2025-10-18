@@ -26,6 +26,7 @@ D - Desafios
 ## P2 - Potenciômetro
 
 1. Controlador de frequência
+
 2. Controlador de intensidade
 
 <img width="407" height="431" alt="P2 - Potenciometro - Controlador de frequencia" src="https://github.com/user-attachments/assets/991e6bf8-89ec-4199-8d90-b2d6268ae0e9" />
@@ -39,7 +40,9 @@ D - Desafios
 ## P4 - Buzzer
 
 1. Buzzer com a função noTone()
+
 2. Buzzer sem a função noTone()
+
 3. Buzzer com notas musicais
 
 <img width="527" height="486" alt="P4 - Buzzer" src="https://github.com/user-attachments/assets/6843cd14-1e2b-4a22-80c7-02bdf63800cd" />
@@ -47,6 +50,7 @@ D - Desafios
 ## P5 - Botão
 
 1.Ligando com tempo
+
 2.Ligado e desligado
 
 <img width="312" height="328" alt="P5-Botao" src="https://github.com/user-attachments/assets/511507f5-071c-4cec-aadb-50893d82932a" />
@@ -61,9 +65,17 @@ D - Desafios
 
 <img width="703" height="365" alt="Controle de estufa lcd" src="https://github.com/user-attachments/assets/73ea91c1-ff5a-4994-9aa1-17ba751d93b5" />
 
-## P6 - LCD
+## P6 - Display LCD
 
 <img width="537" height="552" alt="Displaylcd" src="https://github.com/user-attachments/assets/9aac3496-b0ff-4c80-8ddc-55da99b7b3fc" />
 
+1.1 - Display LCD
 
+1.2 - Display ola mundo
+
+1.3 - Display com rolagem
+
+## DF - Calculadora
+
+<img width="507" height="437" alt="Df - Calculadora" src="https://github.com/user-attachments/assets/f70f2447-3531-4dc4-8ced-eef864c47e90" />
 
