@@ -8,7 +8,9 @@
 P - Projetos
 
 D - Desafios
-
+  * DF - Desafios Autorais
+  * D(número) - Desafios do livro
+  
 ## P1 - Semáforo:
 
 1. Controle simples de um LED:
