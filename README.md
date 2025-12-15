@@ -81,3 +81,9 @@ D - Desafios
 
 <img width="507" height="437" alt="Df - Calculadora" src="https://github.com/user-attachments/assets/f70f2447-3531-4dc4-8ced-eef864c47e90" />
 
+## D3 - Estacionamento
+<img width="770" height="491" alt="D3 -estacionamento" src="https://github.com/user-attachments/assets/48c649d1-9e6a-4bf4-bd0e-ddc27dd06e8a" />
+
+## D4 - Temperatura
+<img width="523" height="495" alt="D4-Temperatura" src="https://github.com/user-attachments/assets/61fc3f6d-e715-410c-9b0d-1b59e18fa89f" />
+
