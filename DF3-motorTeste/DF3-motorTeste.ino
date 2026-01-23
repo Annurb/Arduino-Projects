@@ -1,10 +1,10 @@
 // Motor A
-int ENA = 5;
-int IN1 = 8;
-int IN2 = 9;
+int ENA = 8;
+int IN1 = 5;
+int IN2 = 6;
 
 // Motor B
-int ENB = 6;
+int ENB = 9;
 int IN3 = 10;
 int IN4 = 11;
 

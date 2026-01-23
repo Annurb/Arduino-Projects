@@ -1,10 +1,8 @@
 // Motor A
-int ENA = 5;
-int IN1 = 8;
-int IN2 = 9;
+int IN1 = 5;
+int IN2 = 6;
 
 // Motor B
-int ENB = 6;
 int IN3 = 10;
 int IN4 = 11;
 
@@ -16,20 +14,17 @@ long duracao = 0;
 long distancia = 0;
 
 void setup() {
-  pinMode(ENA, OUTPUT);
+  pinMode(TRIG, OUTPUT); // O trigger envia o sinal
+  pinMode(ECHO, INPUT);  // O echo recebe o sinal
+
+  Serial.begin(9600);
   pinMode(IN1, OUTPUT);
   pinMode(IN2, OUTPUT);
 
-  pinMode(ENB, OUTPUT);
   pinMode(IN3, OUTPUT);
   pinMode(IN4, OUTPUT);
 
   // velocidade dos motores
-  analogWrite(ENA, 50);
-  analogWrite(ENB, 50);
-
-  pinMode(ECHO, INPUT);
-  pinMode(TRIG, OUTPUT);
 }
 
 void loop() {
@@ -54,20 +49,20 @@ void loop() {
   
   //Calculo da distancia (centimetros):distancia= duracao/58
 	distancia =duracao/58;
-
-  // FRENTE
-  if(distancia > 20){
-  digitalWrite(IN1, HIGH);
+  Serial.println(distancia);
+  // ir pro lado
+  if(distancia <= 15){
+  analogWrite(IN1, 100);
+  analogWrite(IN2, 0);
+  analogWrite(IN3, 100);
+  digitalWrite(IN4, LOW);
+  delay(1000);
+  }else{
+    // FRENTE
+  analogWrite(IN1, 100);
   digitalWrite(IN2, LOW);
   digitalWrite(IN3, LOW);
-  digitalWrite(IN4, HIGH);
-  }
-  else{
+  analogWrite(IN4, 100);
+  delay(1000);
+}}
 
-  // PARAR
-  digitalWrite(IN1, LOW);
-  digitalWrite(IN2, LOW);
-  digitalWrite(IN3, LOW);
-  digitalWrite(IN4, LOW);;
-  }
-}
